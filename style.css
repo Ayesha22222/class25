@@ -1,0 +1,42 @@
+.pricing-plan{
+  background-color: #f7f9ff;
+ 
+}
+
+.card{
+  box-shadow: 0px 1px 12px rgba(0, 0, 0, 50%);
+}
+.banner{
+  background-image: url(./free-bg.jpg);
+  padding: 100px;
+ 
+}
+.banner-text {
+  color: white;
+}
+
+ /*------------news-letter--------------  */
+
+
+.newsletter{
+  background-color: #f7f9ff;
+}
+
+.text-news {
+  margin-top: 80px;
+  color: white;
+  text-align: justify;
+  padding: 50px;
+ 
+}
+.newsletter .text-news h3,p{
+  margin-left: 20px;
+
+}
+
+.contain{
+  margin-top: 80px;
+  background-color: white;
+  padding: 50px;
+  box-shadow: 0px 1px 12px rgba(0, 0, 0, 50%);
+}
